@@ -1,2 +1,2 @@
 # CodeGuessGame
-ooga booga
+Pure C++
