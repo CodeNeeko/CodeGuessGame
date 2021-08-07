@@ -11,6 +11,7 @@ void PrintIntroduction(int Difficulty)
 
 bool PlayGame(int Difficulty)
 {
+	//Level Difficulty increase logic
 	PrintIntroduction(Difficulty);
 
 	int CodeA = rand() % Difficulty + Difficulty;
